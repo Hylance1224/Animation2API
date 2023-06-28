@@ -35,11 +35,7 @@ All copyright of the tool is owned by the author of the paper.
     <td valign="top"><img src="https://user-images.githubusercontent.com/39308424/234280488-a06cde9b-bf01-42e7-8011-c04abc642aca.gif" width="152" height="335"></td>
     <td valign="top"><img src="https://user-images.githubusercontent.com/39308424/234278470-8eccd780-ca43-4586-99ab-3e0a759e9e8d.gif" width="152" height="335"></td>
     <td valign="top"><img src="https://user-images.githubusercontent.com/39308424/234278491-f8d1bcf5-872b-4947-881b-e32b72d74e9f.gif" width="152" height="335"></td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/39308424/234278491-f8d1bcf5-872b-4947-881b-e32b72d74e9f.gif" width="152" height="335"></td>
-    ![3](https://github.com/Hylance1224/Animation2API/assets/39308424/73af0ca7-fbdc-42e0-aa09-f0e93df38ab7)
-    ![2](https://github.com/Hylance1224/Animation2API/assets/39308424/b8b20b78-c7a1-4795-9755-39e010c4308b)
-
-
+    <td valign="top"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39308424/249388974-73af0ca7-fbdc-42e0-aa09-f0e93df38ab7.gif" width="152" height="335"></td>
   </tr>
  </table>
  
